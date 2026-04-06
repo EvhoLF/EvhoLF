@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/EvhoLF/EvhoLF/refs/heads/main/assets/evholf_top.png)
+![Banner](https://raw.githubusercontent.com/EvhoLF/EvhoLF/refs/heads/main/assets/evholf.png)
 
 <p align="center">
   <b>
