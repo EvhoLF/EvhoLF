@@ -7,6 +7,6 @@
   </b>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,sass,tailwind,materialui,nodejs,express,mongodb,mysql,postgres,graphql,jest" alt="My Skills">
-    <img src="https://skillicons.dev/icons?i=docker,git,githubactions,ai,ps,prisma,apollo,webpack,vite,vscode,visualstudio,figma" alt="">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,redux,sass,tailwind,materialui,nodejs,express,mongodb,mysql,postgres,graphql" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=jest,docker,git,githubactions,ai,ps,prisma,apollo,webpack,vite,vscode,visualstudio,figma" alt="">
 </p>
